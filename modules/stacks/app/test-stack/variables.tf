@@ -18,3 +18,7 @@ variable "stack_var" {
   default = "unset"
 }
 
+variable "region" {
+  description = "The variable of my region inside the AWS Ohio"
+  default     = "us-east-2"
+}
