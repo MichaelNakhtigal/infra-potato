@@ -18,3 +18,7 @@ variable "stack_var" {
   default = "unset"
 }
 
+variable "stack_var_sec" {
+  default = "unset"
+}
+
